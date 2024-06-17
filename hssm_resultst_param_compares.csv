@@ -1,0 +1,3 @@
+,rank,elpd_loo,p_loo,elpd_diff,weight,se,dse,warning,scale
+hssm_results/t_range/v~hrl_nodetype:cond:block_z~accexp_trange_0.25,0,-6925.514404773712,145.1835699081421,0.0,0.99951171875,123.03839023650684,0.0,True,log
+hssm_results/t_range/v~hrl_nodetype:cond:block_z~accexp_trange_0.05,1,-7482.271194458008,55.532426834106445,556.7567896842957,0.00048828125,96.34788283040672,52.18380569549366,True,log
